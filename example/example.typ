@@ -2,7 +2,7 @@
 #import "@preview/cuti:0.3.0": show-cn-fakebold
 #show: show-cn-fakebold
 #set text(font: ("libertinus serif", "PingFang SC"))
-#align(horizon)[
+
 #show: slides.with(
   title: "Parallel molecular data storage by printing epigenetic bits on DNA", // Required
   // subtitle: "在DNA上打印表观遗传位来实现并行分子数据存储",
@@ -17,10 +17,10 @@
   footer: true,
   // footer-title: "Custom Title", 
   // footer-subtitle: "Custom Subtitle", 
-  theme: "full"
+  // theme: "full"
 )
 
-
+#align(horizon)[
 = 背景
 
 == 存储难题
